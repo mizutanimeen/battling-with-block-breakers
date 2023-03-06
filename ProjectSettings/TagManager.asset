@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BossHPBar
+  - Attack
+  - Ink
+  - Keyhole
+  - BossAttack1
+  - Boss
+  - BossAttack2
+  - FixedAttack
+  - BossHPUI
+  - AttackBlock
+  - GameManager
+  - Notice
+  - Canvas
+  - Time
+  - Score
+  - HPBar
+  - WallLeft
+  - Ball
+  - WallRight
+  - WallTop
+  - Tutorial
+  - Block
+  - BlockPos
+  - 2MissionText
+  - 1MissionText
+  - Mission1Mark
+  - Mission2Mark
+  - ClearHPText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
